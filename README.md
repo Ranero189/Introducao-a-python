@@ -217,11 +217,11 @@ Exercícios - Lista-2
 
 4) Durante uma corrida de automóveis com N voltas de duração foram anotados para um piloto, na ordem, os tempos registrados em cada volta. Fazer um programa em C para ler os tempos das N voltas, calcular e imprimir:
 
-O melhor tempo;
+	O melhor tempo;
 
-A volta em que o melhor tempo ocorreu;
+	A volta em que o melhor tempo ocorreu;
 
-Tempo médio das N voltas.
+	Tempo médio das N voltas.
 
 5) Faça um programa que dado dois vetores de 5 posições gere um terceiro que seja a união dos outros dois por intercalação.
 
